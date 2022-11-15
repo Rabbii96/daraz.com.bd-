@@ -1,4 +1,4 @@
-# Manual-Testing-of-daraz.com.bd
+# Manual-Testing-of-reship.com
 Test Case Writing
 
 # Content:
